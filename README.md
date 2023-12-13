@@ -49,8 +49,12 @@ Create two triggers for each cloudbuild yaml and enable all the connections.
 ### Bugs deBugs
 
 >*default Cloud Build service account "<>@cloudbuild.gserviceaccount.com" does not have secretmanager.versions.access permissions for secret "<>DB_URL_ATLAS"*
+
 Secret Manager Admin to Cloud Build Service Account 
 
 >- versionName: projects/1048208750877/secrets/DB_URL_ATLAS/versions/1
+
 Without ''
 
+> Deployment failed
+ERROR: (gcloud.run.deploy) Revision 'react-nodejs-cloudbuilds-server-00003-znx' is not ready and cannot serve traffic. The user-provided container failed to start and listen on the port defined provided by the PORT=3000 environment variable. Logs for this revision might contain more information.
