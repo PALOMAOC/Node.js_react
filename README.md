@@ -4,7 +4,7 @@
 This project guides you through setting up an app with a React front-end and a Node.js back-end. It seamlessly integrates automatic deployment on Cloud Run through Cloud Build.
 
 
-![Alt text](.img/arquitecture.png)
+![ARQUITECTURE](.img/arquitecture.png)
 
 ## User Creation with MERN Full Stack
 
