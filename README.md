@@ -1,5 +1,5 @@
 
-# 🚀 React NodeJS Cloud Builds
+#  React NodeJS Cloud Builds
 
 This project guides you through setting up an app with a React front-end and a Node.js back-end. It seamlessly integrates automatic deployment on Cloud Run through Cloud Build.
 
