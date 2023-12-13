@@ -46,4 +46,8 @@ mongodb+srv://<username>:<password>@cluster0.2lnyz2p.mongodb.net/
 ### Trigger cloud build with push a main creation
 Create two triggers for each cloudbuild yaml and enable all the connections.
 
+### Bugs deBugs
+
+>*default Cloud Build service account "<>@cloudbuild.gserviceaccount.com" does not have secretmanager.versions.access permissions for secret "<>DB_URL_ATLAS"*
+Secret Manager Admin to Cloud Build Service Account 
 
