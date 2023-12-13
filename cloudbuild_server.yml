@@ -33,5 +33,5 @@ images:
 
 availableSecrets:
   secretManager:
-    - versionName:'projects/1048208750877/secrets/DB_URL_ATLAS/versions/1'
+    - versionName: projects/1048208750877/secrets/DB_URL_ATLAS/versions/1
       env: 'DB_URL_ATLAS'

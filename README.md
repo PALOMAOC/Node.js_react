@@ -51,3 +51,6 @@ Create two triggers for each cloudbuild yaml and enable all the connections.
 >*default Cloud Build service account "<>@cloudbuild.gserviceaccount.com" does not have secretmanager.versions.access permissions for secret "<>DB_URL_ATLAS"*
 Secret Manager Admin to Cloud Build Service Account 
 
+>- versionName: projects/1048208750877/secrets/DB_URL_ATLAS/versions/1
+Without ''
+
